@@ -53,3 +53,10 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ![Screen Shot 2023-03-22 at 9 41 14 PM](https://user-images.githubusercontent.com/114446803/227080168-8de2dda9-8351-45cc-b35f-ec79f1a7b658.png)
 
+# Summary:
+
+The analysis shows us some very important information about what demographics rent what bikes at what times this information could be very important to the CitiBike people so they can target how they advertise for their bike service.
+
+# Link to Tableau Public:
+
+https://public.tableau.com/views/Module15Challenge_16795380873540/NYCBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
